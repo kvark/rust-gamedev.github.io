@@ -74,7 +74,12 @@ support, blend factors, and debug markers.
 work spread over a dozen of pull requests.
 It is now able to run [bve-reborn] correctly:
 
-![bve-reborn on dx11](bve-reborn-dx11.jpeg)
+![bve-reborn on dx11](bve-reborn-dx11.jpg)
+
+Here is another project on `wgpu` that is not ready to publicly reveal itself.
+It got some spaceship renders when running on DX11 backend:
+
+![wgpu-unknown-dx11](wgpu-unknown-dx11.jpg)
 
 [gfx-rs]: https://github.com/gfx-rs/gfx
 [@kvark]: https://github.com/kvark
